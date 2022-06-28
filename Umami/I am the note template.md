@@ -1,0 +1,16 @@
+uplinks:: [[+ HOME]]
+tags:: #type/tool⚙️ #status/boat🚤 #on/lyt 
+
+# I am the note template
+---
+## Jot down...
+###### *I am the note template
+	what is it...
+	how it work...
+	why does it matter...
+	where did it come from...
+	Freely write, say stuff, link things
+
+---
+## References
+- x

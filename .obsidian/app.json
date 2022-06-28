@@ -1,0 +1,23 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "Bins/Attachments",
+  "fileSortOrder": "alphabetical",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": false,
+  "newLinkFormat": "shortest",
+  "showUnsupportedFiles": true,
+  "newFileFolderPath": "Unsorted",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": false
+}
