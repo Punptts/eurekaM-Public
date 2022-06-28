@@ -1,9 +1,0 @@
-[submodule "12 - Hashpire"]
-	path = 12 - Hashpire
-	url = https://github.com/hashpire/eureka-web3.git
-[submodule "11 - Tong Hua Labs"]
-	path = 11 - Tong Hua Labs
-	url = git@github.com:TongHuaLabs/eureka.git
-[submodule "eureka-tonghualabs"]
-	path = 11 - TongHuaLabs
-	url = git@github.com:TongHuaLabs/eureka-tonghualabs.git
