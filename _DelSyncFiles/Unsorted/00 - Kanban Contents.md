@@ -6,10 +6,9 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] SAT - Share my weekly update
-- [ ] FRI - Github repo - HTML Starter
 - [ ] WED - CSS - box model compare to Figma<br><br>https://www.geeksforgeeks.org/css-box-model/
-- [ ] TUE - HTML
+- [ ] FRI - Github repo - HTML Starter
+- [ ] SAT - Share my weekly update
 - [ ] ------------ seperator -----------
 - [ ] SUN ผ่านไป 1 อาทิตย์ รู้สึกยังไง
 - [ ] MON - Code
@@ -20,6 +19,7 @@ kanban-plugin: basic
 
 ## Doing
 
+- [ ] TUE - HTML
 
 
 ## Done

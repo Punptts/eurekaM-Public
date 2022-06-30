@@ -15,5 +15,3 @@ https://medium.com/@ibrahim.saliman.zainab/6-free-tools-every-content-writer-nee
 2022-06-25-Sat | 17:23: https://uxdesign.cc/design-systems-in-figma-how-to-be-more-productive-435ff0460fde 
 2022-06-25-Sat | 17:30: Design system https://bootcamp.uxdesign.cc/open-design-systems-in-the-figma-community-c325b1f33bcf 
 2022-06-25-Sat | 17:39: How to build a design system https://uxdesign.cc/how-to-build-a-design-system-if-youre-the-only-designer-in-a-startup-f4695d2f4b7f 
-2022-06-30-Thu | 07:30: Miller’s law 
-2022-06-30-Thu | 07:37: https://blog.prototypr.io/the-most-important-rule-in-ux-design-that-everyone-breaks-1c1cb188931 

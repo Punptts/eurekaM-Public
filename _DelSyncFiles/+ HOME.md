@@ -13,7 +13,7 @@ These are my main sensemaking maps.
 - ⚙️ Tool & Project
 	- [[Tool MOC |Tool MOC]]
 	- [[Project MOC |Project MOC]]
-	- [[00 - Kanb
+	- [[00 - Kanban H|Kanban Board]]
 
 - 👩‍💻 Personal Fuel...
 	- [[Book MOC]] | [[Podcast]]
